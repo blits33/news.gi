@@ -1,0 +1,17 @@
+function nome(){
+
+}
+export default nome
+
+//eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0YjJhOTY0MDI2MTM0MDBjOGQyMDcwNiIsImlhdCI6MTY5MDAwMjQ4NCwiZXhwIjoxNjkwMDg4ODg0fQ.BmzyZhsvar_pg9T8kmf_pV_qzZ4DrTf_2gJyrsA5JtE
+
+//julia
+
+//
+//
+//eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0Yjg0MThjZGFlZmJlMWJiY2Q2YTRkMyIsImlhdCI6MTY5MDAwMjU3MiwiZXhwIjoxNjkwMDg4OTcyfQ.OdTdVeawTvM_sEDbZSFc0sTkvBRpmOpw0GtvFo4I6Lk
+
+//gabriel
+
+//eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0Yjg0MWNhZGFlZmJlMWJiY2Q2YTRkNSIsImlhdCI6MTY5MDAwMjY2NywiZXhwIjoxNjkwMDg5MDY3fQ.w_1CIgCLIf1ZvrPSyQndafDFtKd1_gWlkIJilT7U4F4
+//lucas
