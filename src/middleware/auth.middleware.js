@@ -1,4 +1,4 @@
-import jwt, { decode } from 'jsonwebtoken'
+import jwt from 'jsonwebtoken'
 import dotenv from "dotenv"
 import userService from "../services/user.service.js"
 
