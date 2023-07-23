@@ -114,6 +114,7 @@ const findbyId =async (req,res)=>{
     const {id} = req.params
 
     const news = await findbyIdService(id)
+    console.log(news)
      if(!news){
         return res.status(404).send({message: "There is no registered post" })
      } 
